@@ -1,3 +1,7 @@
+# 2026-3-19 NEW：
+根据 f大 linux-6.1.y-rockchip 由ai出力进行适配
+rk3588s-tcn100.dtb
+rk3588s-tcn100.dts
 # CMCC-TCN100
 目前 fnos arm 版已由某神秘大佬出手适配
 
